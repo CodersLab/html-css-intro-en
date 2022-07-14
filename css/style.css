@@ -1,4 +1,4 @@
-/* STYLE OGÓLNE */
+/* GENERAL STYLES */
 * {
   margin: 0;
   padding: 0;
@@ -43,7 +43,7 @@ h3 {
   font-weight: 300;
 }
 
-/* SEKCJA 1 - WELCOME */
+/* SECTION 1 - WELCOME */
 .welcome {
   background-color: #ffcc33;
 }
@@ -70,7 +70,7 @@ h3 {
   margin-top: 40px;
 }
 
-/* SEKCJA 2 - ABOUT */
+/* SECTION 2 - ABOUT */
 .about-text {
   margin-top: 60px;
 }
@@ -80,7 +80,7 @@ h3 {
   text-decoration: none;
 }
 
-/* SEKCJA 3 - PRODUCT */
+/* SECTION 3 - PRODUCT */
 .product {
   display: flex;
 }
@@ -97,7 +97,7 @@ h3 {
   width: 50%;
   background-color: #ffcc33;
   padding: 60px;
-  box-sizing: border-box; /* Wyjaśnić */
+  box-sizing: border-box; /* Explain */
 }
 
 .product-title {
@@ -110,7 +110,7 @@ h3 {
   line-height: 24px;
 }
 
-/* SEKCJA 4 - REQUIREMENTS */
+/* SECTION 4 - REQUIREMENTS */
 .requirements {
   background-color: #e1e4e4;
 }
@@ -119,7 +119,7 @@ h3 {
   margin-top: 60px;
 }
 
-/* SEKCJA 5 - FEATURES */
+/* SECTION 5 - FEATURES */
 .features-columns {
   margin-top: 60px;
   display: flex;
@@ -141,7 +141,7 @@ h3 {
   margin-bottom: 5px;
 }
 
-/* SEKCJA 6 - FOOTER */
+/* SECTION 6 - FOOTER */
 .footer {
   background-color: #2a3030;
   color: #fff;
